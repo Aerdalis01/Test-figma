@@ -1,0 +1,7 @@
+echo "# Test-figma" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Aerdalis01/Test-figma. git
+ git push -u origine principale
